@@ -1,4 +1,4 @@
-# Adv Auto Filter Bot V2
+# Adv Auto Filter Bot V.2
 
 <p align="center">
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
